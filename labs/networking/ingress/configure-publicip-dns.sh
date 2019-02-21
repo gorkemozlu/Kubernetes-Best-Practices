@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Public IP address
-IP="137.117.57.130"
+IP="13.82.102.20"
 
 # Name to associate with public IP address
 DNSNAME=servicetracker
